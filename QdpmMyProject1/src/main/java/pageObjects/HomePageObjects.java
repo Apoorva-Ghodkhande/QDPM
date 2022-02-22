@@ -32,5 +32,7 @@ public class HomePageObjects extends TestBase{
 	public void checkIfDashBoardPageIsOpened() {
 		Assert.assertTrue(isElementPresent_custom(DriverFactory.getInstance().getDriver().findElement(sidebarMenu_Dashboard), "DashBoardMenu"));
 	}
-
+	public void checkIfDashBoardPageIsOpened1() {
+		Assert.assertTrue(isElementPresent_custom(DriverFactory.getInstance().getDriver().findElement(sidebarMenu_Dashboard), "DashBoardMenu"));
+	}
 }
