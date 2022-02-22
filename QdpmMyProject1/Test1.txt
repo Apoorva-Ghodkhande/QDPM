@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is second change.
+=======
+This is first change.
+>>>>>>> branch 'master' of https://github.com/Apoorva-Ghodkhande/QDPM.git
